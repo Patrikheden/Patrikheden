@@ -1,5 +1,4 @@
 👋 Hej! Jag är Patrik.
-
 Studerande mobilapplikationsutvecklare med fokus på Android och iOS. 
 
 * 💻 **Språk & Verktyg:** Java, JavaScript, Kotlin, Android Studio.
